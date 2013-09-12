@@ -1,0 +1,28 @@
+#menu {
+	width: 95%;
+	height: 25px;
+	margin: 0 auto;
+}
+
+#ul {
+	list-style: none;
+	margin-left: 45%;
+	height: 100%;
+	border-left: 4px solid #777;
+}
+
+.li {
+	float: left;
+	height: 100%;
+	background: #444;
+}
+
+.li:after {
+	content: "     ";
+	padding: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #eee;
+}
