@@ -7,9 +7,9 @@
 	**/
 
 	define('DB_HOST', 'localhost');
-	define('DB_USER', 'rl_user');
-	define('DB_PASS', 'tucaca12');
-	define('DB_NAME', 'rl_database');
+	define('DB_USER', 'lol');
+	define('DB_PASS', 'lol');
+	define('DB_NAME', 'lol');
 	define('DB_PORT', '5432');
 
 	/**
